@@ -8,8 +8,6 @@ The goal was to perform a customer segmentation that could be utilised for the i
 
 The features were explained as follows:
 
-The features:
-
     customer_id : id of the credit card holder
 
     balance_account : balance amount left in the account to make purchases at the end of the 6-month period
